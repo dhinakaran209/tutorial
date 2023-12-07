@@ -1,2 +1,3 @@
 Hi Nanba
 What's up?
+This is a samle repo practised for git push pull
